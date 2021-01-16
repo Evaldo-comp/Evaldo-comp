@@ -3,8 +3,8 @@
 
 **Evaldo-comp/Evaldo-comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
