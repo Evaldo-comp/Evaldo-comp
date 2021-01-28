@@ -1,7 +1,7 @@
 ### E Aí?!! 👋
 
 
-**Evaldo-comp/Evaldo-comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Evaldo-comp/Evaldo-comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 [![Header](https://github.com/Evaldo-comp/Evaldo-comp/blob/main/src/readme_header.png "Header")](https://some-url.dev/)
 
 <!-- Actual text -->
