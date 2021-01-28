@@ -2,7 +2,7 @@
 
 
 **Evaldo-comp/Evaldo-comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Header](https://github.com/Evaldo-comp/Evaldo-comp/blob/main/src/readme_header.png "Header")](https://some-url.dev/)
+[Header](https://github.com/Evaldo-comp/Evaldo-comp/blob/main/src/readme_header.png "Header")](https://some-url.dev/)
 
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 <!-- Actual text -->
