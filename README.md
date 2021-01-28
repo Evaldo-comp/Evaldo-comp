@@ -4,7 +4,6 @@
 **Evaldo-comp/Evaldo-comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Header](https://github.com/Evaldo-comp/Evaldo-comp/blob/main/src/readme_header.png "Header")](https://some-url.dev/)
 
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 <!-- Actual text -->
 Pode me chamar de Evaldo, sou licenciado em computação e atualmente atuo como professor substituo na Universidade estadual do Ceará - Campus avançado de Mombaça, caso você se interesse por conhecer um pouco sobre minhas opniões sobre política e BBB, pode me encontrar aqui [![Twitter][1.2]][1], mas se você é um profssional de RH procurando algum instruot/ptofessor, pode dar um pulinho no meu Linkedin[![LinkedIn][2.2]][2].
 
@@ -50,11 +49,19 @@ Algumas coisas sobre mim:
 - 🔭 Atualmente estou trabalhando com professor substituto na Universidde Estadual do Ceará  - FECLI ...
 - 🌱 Estou estudando Python, Desenvolvimento WEB e programação criativa com processing ...
 - 👯 Procuro colegas com fluência em inglês para traduzir algumas literaturas sobre processing
-- 🤔 
-- 💬 [Faça-me uma pergunta] (https://curiouscat.qa/Evalld0) ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 [Faça-me uma pergunta](https://curiouscat.qa/Evalld0) ...
+
+---
+Este meu perfil é basicamente composto por repostórios de estudos e planejamento, aqui estão armazenados códigos exmeplos e resoluções de exercícios. Também resumo a documentação e livros de algumas linguagens, para uma leitura mais enxuta, claro, muita coisa ainda está sendo feita, aceito ajuda de quem quiser ajudar a complementar. Como todo o conteúdo é digitado e configurado por mim, com certeza você vai encontrar algum erro de digitação ou de linguagem mesmo, sinta-se a vontade para corrigir, sugerir ou fazer críticas.
+ Segue abixo alguns repostŕio que esto alimento com teoria, laguns ainda estão com bem pouca coisa , outros com mesmos ainda kkk. 
+ 
+ ![](https://img.shields.io/badge/WEB-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)   [Acesse o repositório](https://github.com/Evaldo-comp/Web)
+ 
+ ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)   [Acesse o repositório](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica)
+ 
+ ![](https://img.shields.io/badge/Processing-informational?style=flat&logo=processing&logoColor=white&color=2bbc8a)   [Acesse o repositório](https://github.com/Evaldo-comp/Processing)
+ 
+ ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)   [Acesse o repositório](https://github.com/Evaldo-comp/C_Cpp-Teoria-e-Pratica)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
