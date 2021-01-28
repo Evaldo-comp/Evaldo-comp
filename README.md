@@ -6,8 +6,7 @@
 
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 <!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+Pode me chamar de Evaldo, sou licenciado em computação e atualmente atuo como professor substituo na Universidade estadual do Ceará - Campus avançado de Mombaça, caso você se interesse por conhecer um pouco sobre minhas opniões sobre política e BBB, pode me encontrar aqui [![Twitter][1.2]][1], mas se você é um profssional de RH procurando algum instruot/ptofessor, pode dar um pulinho no meu Linkedin [![LinkedIn][3.2]][3] 
 
 <!-- Icons -->
 
