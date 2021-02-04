@@ -5,7 +5,7 @@
 [![Header](https://github.com/Evaldo-comp/Evaldo-comp/blob/main/src/readme_header.png "Header")](https://some-url.dev/)
 
 <!-- Actual text -->
-Pode me chamar de Evaldo, sou licenciado em computação e atualmente atuo como professor substituto na Universidade Estadual do Ceará - Campus avançado de Mombaça, caso você se interesse por conhecer um pouco sobre minhas opniões sobre política e BBB, pode me encontrar aqui [![Twitter][1.2]][1], mas se você é um profssional de RH procurando algum Instrutor/Professor, pode dar um pulinho no meu Linkedin[![LinkedIn][2.2]][2].Atualmente estou mais focado em Python e desenvolvimento WEB- FronEnd, quando tenho tempo,me aventuro no Java, C/C++, PHP e Processing, pretendo melhorar minhas skills em todas, mas vou devagar para não ficar dodói da cabeça.
+Pode me chamar de Evaldo, sou licenciado em computação e atualmente atuo como professor substituto na Universidade Estadual do Ceará - Campus avançado de Mombaça. Caso você se interesse por conhecer um pouco sobre minhas opniões sobre política e BBB, pode me encontrar aqui [![Twitter][1.2]][1], mas se você é um profissional de RH procurando algum Instrutor/Professor, pode dar um pulinho no meu Linkedin[![LinkedIn][2.2]][2], agora se você caiu aqui de paraquedas e quer apenas ver o que esse cara pode oferecer, desce lá pro final no README que têm alguns links de repostórios que estou alimentando com exercícios e Teoria. Atualmente estou mais focado em Python e desenvolvimento WEB- FronEnd, quando tenho tempo, me aventuro no Java, C/C++, PHP e Processing. Pretendo melhorar minhas skills em todas, mas vou devagar para não ficar dodói da cabeça.
 
 <!-- Icons -->
 ![](https://img.shields.io/badge/OS-Xubuntu-informational?style=flat&logo=Lubuntu&logoColor=white&color=2bbc8a)
