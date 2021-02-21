@@ -30,7 +30,7 @@ Pode me chamar de Evaldo, sou licenciado em computação e atualmente atuo como 
 </a>
 
 
-<a href="https://github.com/Evaldo-comp/Processingt">
+<a href="https://github.com/Evaldo-comp/Processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evaldo-comp&repo=Processing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
