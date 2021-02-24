@@ -5,7 +5,7 @@
 [![Header](https://github.com/Evaldo-comp/Evaldo-comp/blob/main/src/readme_header.png "Header")](https://evaldo-comp.github.io/V1/.)
 
 <!-- Actual text -->
-Pode me chamar de Evaldo, sou licenciado em computação e atualmente atuo como professor substituto na Universidade Estadual do Ceará - Campus avançado de Mombaça. Caso você se interesse por conhecer um pouco sobre minhas opniões sobre política e BBB, pode me encontrar aqui [![Twitter][1.2]][1], mas se você é um profissional de RH procurando algum Instrutor/Professor, pode dar um pulinho no meu Linkedin[![LinkedIn][2.2]][2], agora se você caiu aqui de paraquedas e quer apenas ver o que esse cara pode oferecer, desce lá pro final no README que têm alguns links de repostórios que estou alimentando com exercícios e Teoria. Atualmente estou mais focado em Python e desenvolvimento WEB- FronEnd, quando tenho tempo, me aventuro no Java, C/C++, PHP e Processing. Pretendo melhorar minhas skills em todas, mas vou devagar para não ficar dodói da cabeça.
+Sou licenciado em computação e atualmente atuo como professor substituto na Universidade Estadual do Ceará - Campus Avançado de Mombaça. Mais detalhes sobre minha trajetória você pode conferir aqui [Site Pessoal](https://evaldo-comp.github.io/V1/.), ou aqui  [![LinkedIn][2.2]][2], agora se você caiu aqui de paraquedas e quer apenas ver o que esse cara pode oferecer, desce lá pro final no README que têm alguns links de repostórios que estou alimentando com exercícios e Teoria. Atualmente estou mais focado em Python e desenvolvimento WEB- Front End, quando tenho tempo, me aventuro no Java, C/C++, PHP e Processing. Pretendo melhorar minhas skills em todas, mas vou devagar para não ficar dodói da cabeça.
 
 <!-- Icons -->
 ![](https://img.shields.io/badge/OS-Xubuntu-informational?style=flat&logo=Lubuntu&logoColor=white&color=2bbc8a)
@@ -49,8 +49,8 @@ Algumas coisas sobre mim:
 
 - 🔭 Atualmente estou trabalhando com professor substituto na Universidde Estadual do Ceará  - FECLI ...
 - 🌱 Estou estudando Python, Desenvolvimento WEB e programação criativa com processing ...
-- 👯 Procuro colegas com fluência em inglês para traduzir algumas literaturas sobre processing
-- 💬 [Faça-me uma pergunta](https://curiouscat.qa/Evalld0) ...
+- 👯 Estou traduzindo algumas literaturas sobre processing
+- 💬 [Faça-me uma pergunta anônima](https://curiouscat.qa/Evalld0) ...
 
 ---
 
