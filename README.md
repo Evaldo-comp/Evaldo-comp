@@ -5,7 +5,7 @@
 [![Header](https://github.com/Evaldo-comp/Evaldo-comp/blob/main/src/readme_header.png "Header")](https://evaldo-comp.github.io/V1/.)
 
 <!-- Actual text -->
-Sou licenciado em computação e atualmente atuo como professor substituto na Universidade Estadual do Ceará - Campus Avançado de Mombaça. Mais detalhes sobre minha trajetória você pode conferir aqui [Site Pessoal](https://evaldo-comp.github.io/V1/.), ou aqui  [![LinkedIn][2.2]][2], agora se você caiu aqui de paraquedas e quer apenas ver o que esse cara pode oferecer, desce lá pro final no README que têm alguns links de repostórios que estou alimentando com exercícios e Teoria. Atualmente estou mais focado em Python e desenvolvimento WEB- Front End, quando tenho tempo, me aventuro no Java, C/C++, PHP e Processing. Pretendo melhorar minhas skills em todas, mas vou devagar para não ficar dodói da cabeça.
+Sou licenciado em computação e atualmente atuo como Professor do curso Técnico em Desenvolvimento de Sistemas na EEEP Maria Carmem Vieira Moreira. Mais detalhes  aqui  [![LinkedIn][2.2]][2], agora se você caiu aqui de paraquedas e quer apenas ver o que esse cara pode oferecer, desce lá pro final no README que têm alguns links de repostórios que estou alimentando com exercícios e Teoria. Atualmente estou mais focado em Python e desenvolvimento WEB- Front End, quando tenho tempo, me aventuro no Java, C/C++, PHP e Processing. Pretendo melhorar minhas skills em todas, mas vou devagar para não ficar dodói da cabeça.
 
 <!-- Icons -->
 ![](https://img.shields.io/badge/OS-Xubuntu-informational?style=flat&logo=Lubuntu&logoColor=white&color=2bbc8a)
@@ -47,15 +47,14 @@ Sou licenciado em computação e atualmente atuo como professor substituto na Un
 
 Algumas coisas sobre mim:
 
-- 🔭 Atualmente estou trabalhando como professor substituto na Universidde Estadual do Ceará  - FECLI ...
-- 🌱 Estou estudando Python, Desenvolvimento WEB e programação criativa com processing ...
+- 🔭 Mestrando em Educação Tecnológica Profissional pelo IFCE
+- 🌱 Foco em Dev Mobile
 - 👯 Estou traduzindo algumas literaturas sobre processing
-- 💬 [Faça-me uma pergunta anônima](https://curiouscat.qa/Evalld0) ...
 
 ---
 
-Este  perfil é basicamente composto por repositórios de estudos e planejamentos, aqui estão armazenados códigos exemplos e resoluções de exercícios. Também resumo a documentação e livros de algumas linguagens, para uma leitura mais enxuta, claro, muita coisa ainda está sendo feita, aceito ajuda de quem quiser ajudar a complementar. Como todo o conteúdo é digitado e configurado por mim, com certeza você vai encontrar algum erro de digitação, sintaxe, concordância e etc, sinta-se a vontade para corrigir, sugerir ou fazer críticas.
- Segue abixo alguns repostóŕios que estou alimentando com teoria, alguns ainda estão com bem pouca coisa , outros com menos ainda kkk. 
+Este  perfil é basicamente composto por repositórios de estudos e planejamentos, aqui estão armazenados códigos exemplos e resoluções de exercícios. Também resumo a documentação e livros de algumas linguagens, para uma leitura mais enxuta, claro, muita coisa ainda está sendo feitar. Como todo o conteúdo é digitado e configurado por mim, com certeza você vai encontrar algum erro de digitação, sintaxe, concordância e etc, sinta-se a vontade para corrigir, sugerir ou fazer críticas.
+ Segue abaixo alguns repostóŕios que estou alimentando com teoria, alguns ainda estão com bem pouca coisa , outros com menos ainda kkk. 
  
  ![](https://img.shields.io/badge/WEB-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)   [Acesse o repositório](https://github.com/Evaldo-comp/Web)
  
